@@ -17,6 +17,16 @@ my_turtle.goto(-190, 255)
 my_turtle.pendown()
 my_turtle.pencolor("red")
 
-# INSERT CODE HERE
+my_turtle.fd(135)
+my_turtle.rt(90)
+my_turtle.fd(240)
+my_turtle.lt(90)
+my_turtle.fd(60)
+my_turtle.rt(90)
+my_turtle.fd(125)
+my_turtle.rt(90)
+my_turtle.fd(63)
+my_turtle.lt(90)
+my_turtle.fd(115)
 
 turtle.done()

@@ -3,7 +3,7 @@ screen = turtle.Screen()
 my_turtle = turtle.Turtle()
 
 # Set up the window
-screen.setup(800, 600)
+screen.setup(1200, 700)
 
 # Set the screen background
 screen.bgpic("maze4.png")
@@ -13,7 +13,7 @@ my_turtle.shape("turtle")
 
 # Bring the turtle to the starting point
 my_turtle.penup()
-my_turtle.goto(-80, 160)
+my_turtle.goto(-280, 211)
 my_turtle.pendown()
 my_turtle.pencolor("red")
 

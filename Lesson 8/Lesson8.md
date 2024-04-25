@@ -45,7 +45,7 @@ Solve the mazes by writing lines of code and see how many you can do!
 - Understand what may have gone wrong by reading the error message in the Terminal. It may give a clue to the line number/s that have issues.
 - Check if all of your variable names are consistent. Variables names are case-sensitive, so errors here will cause issues in running the code.
 - Check your code indentation levels (`Tab` to shift inwards, `Shift + Tab` to shift outwards). You may have accidentally moved something to the wrong place.
-- As always, you may reference the Scripts (Answer Key) > Lesson 8 Scripts folder in this repository if all of the above are not working. *(to be added!)*
+- As always, you may reference the Scripts (Answer Key) > Lesson 8 Scripts folder in this repository if all of the above are not working.
 
 ## Demo
 Run your mazes and ensure that everything is working properly!
