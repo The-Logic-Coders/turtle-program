@@ -1,6 +1,6 @@
 # Introduction to Python Turtle
 Welcome to the intro-to-turtle-learning wiki!  
-<img src="https://github.com/cgtiu642/tlc-turtle-curriculum/assets/97239180/d8e01132-efe5-4c61-96e3-5de094263452" width="300" height="400">
+<img src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/17c0bef1-a24e-4a8f-a2f6-fb1982c6eb7c" width="300" height="400">
 
 ## Scope of Learning
 **Goal:** To give a foundational understanding of Python Turtle  
