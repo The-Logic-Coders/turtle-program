@@ -43,8 +43,8 @@ Be cautious with `while` loops, as they can create infinite loops if the conditi
 
 You have learned two types of loops so far, so what are their differences, and how do you know which one to use?
 
-![For-vs-While-Loop](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/3c9479de-1982-4537-923c-ceba3384d3fc)
-<img src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/7722dd85-5883-4877-bc94-fbaf123565aa" width="550">
+![For-vs-While-Loop](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/a7c62181-3dc3-4c3d-80d4-f6b3f84e11f7)
+<img src="https://github.com/The-Logic-Coders/turtle-program/assets/97239180/99952eb9-05b8-4a74-9d6f-3c6f584c9e10" width="550">
 
 ## Review
 

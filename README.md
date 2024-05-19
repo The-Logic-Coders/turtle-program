@@ -1,6 +1,6 @@
 # Introduction to Python Turtle
-Welcome to the intro-to-turtle-learning wiki!  
-<img src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/17c0bef1-a24e-4a8f-a2f6-fb1982c6eb7c" width="300" height="400">
+Welcome to the Python Turtle program by The Logic Coders!  
+<img src="https://github.com/The-Logic-Coders/turtle-program/assets/97239180/c1d657c5-8f51-48e4-ae4e-dacc94b6122e" width="300" height="400">
 
 ## Scope of Learning
 **Goal:** To give a foundational understanding of Python Turtle  

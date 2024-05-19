@@ -51,7 +51,7 @@ my_turtle.circle(100)
 second_turtle.circle(60)
 ```
 
-![Lesson 3 1 Clone](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/7b602d1b-8167-4404-8f1d-3af5bac0db05)
+![Lesson 3 1 Clone](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/e0efa7a5-f60f-426e-8a02-659250901ffa)
 
 ## Review
 
@@ -124,7 +124,7 @@ Write a Python program for drawing each of these shapes!
 
 (Hard) Challenges 12-14: Advanced concepts such as loops may be needed, so do not do these challenges. They will be returned to later.
 
-![Screenshot 2024-03-03 152334](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/3a31c6cd-71d2-47eb-b098-372b60131d50)
+![Screenshot 2024-03-03 152334](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/05aa8e7e-2d0e-4555-88e8-be2eb9341fe4)
 
 <details>
 <summary>Hint</summary>
@@ -134,83 +134,83 @@ Attempt each challenge first. If you are stuck, you can refer to the Scripts (An
 <details>
 <summary>Challenge 1</summary>
 
-![Lesson 3 Challenge 1](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/3e4c74c9-e56d-4794-9382-38c7ebf8af8a)
+![Lesson 3 Challenge 1](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/8b448eae-ed37-4e43-9486-7cc0496b9eb7)
 </details>
 
 <details>
 <summary>Challenge 2</summary>
 
-![Lesson 3 Challenge 2](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/1c1d3796-f812-4488-97fb-a6b4743e9a88)
+![Lesson 3 Challenge 2](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/78ccaddb-ddaf-48bf-9f12-35bd3c157c70)
 </details>
 
 <details>
 <summary>Challenge 3</summary>
 
-![Lesson 3 Challenge 3](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/c58c5d7d-cd1e-4f2a-9992-8ae2966e96d9)
+![Lesson 3 Challenge 3](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/d35cb0f9-a9b3-4c30-a979-4ff1b91fe5fb)
 </details>
 
 <details>
 <summary>Challenge 4</summary>
 
-![Lesson 3 Challenge 4](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/a65213ec-3fbb-417d-88e1-a7cf95755680)
+![Lesson 3 Challenge 4](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/6a154abe-4bf8-43eb-8cf1-1a5e54e372da)
 </details>
 
 <details>
 <summary>Challenge 5</summary>
 
-![Lesson 3 Challenge 5](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/b7c506e2-b294-4b1b-a281-a959d5e399ac)
+![Lesson 3 Challenge 5](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/0912f251-4405-4371-8ec1-56030fc3eab3)
 </details>
 
 <details>
 <summary>Challenge 6</summary>
 
-![Lesson 3 Challenge 6](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/efb5ca43-f341-4eff-ae94-5d8e35ad6f05)
+![Lesson 3 Challenge 6](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/1ff8faf9-e86a-427b-8608-43dc14b6d98a)
 </details>
 
 <details>
 <summary>Challenge 7</summary>
 
-![Lesson 3 Challenge 7](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/51d58658-1484-4fe2-afe9-d4994c5aca99)
+![Lesson 3 Challenge 7](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/d51defa5-0080-46c7-9103-3061d30c0abf)
 </details>
 
 <details>
 <summary>Challenge 8</summary>
 
-![Lesson 3 Challenge 8](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/c4f5db12-f5ef-4f89-a221-d68f06a4e571)
+![Lesson 3 Challenge 8](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/f2550f8d-ff56-485a-9fd2-5b795c898853)
 </details>
 
 <details>
 <summary>Challenge 9</summary>
 
-![Lesson 3 Challenge 9](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/67f3ca1a-6a77-4fdf-b68e-51a83ec8f39d)
+![Lesson 3 Challenge 9](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/572d1c85-b038-4247-a95e-742c8b0a23ec)
 </details>
 
 <details>
 <summary>Challenge 10</summary>
 
-![Lesson 3 Challenge 10](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/2d420dff-3559-4b13-be94-1c8f4292b29a)
+![Lesson 3 Challenge 10](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/07ebf431-ce45-4c4b-ad1e-817e2713c6f9)
 </details>
 
 <details>
 <summary>Challenge 11</summary>
 
-![Lesson 3 Challenge 11](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/088d0eb9-60ae-40a9-b675-2409fbff0d7b)
+![Lesson 3 Challenge 11](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/2f80bc20-5fe6-4e7e-af8e-4f34810c007b)
 </details>
 
 <details>
 <summary>Challenge 12</summary>
 
-![Lesson 3 Challenge 12](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/32cee938-a7cd-41f6-8f6a-bf377892a27f)
+![Lesson 3 Challenge 12](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/a4e2d327-49a9-4a6a-8905-ffab3ca17fa8)
 </details>
 
 <details>
 <summary>Challenge 13</summary>
 
-![Lesson 3 Challenge 13](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/e2fc5381-af1b-4379-bd8a-ac31db9fd45f)
+![Lesson 3 Challenge 13](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/6294d66a-70b9-4073-9334-1ca7fb0df8f9)
 </details>
 
 <details>
 <summary>Challenge 14</summary>
 
-![Lesson 3 Challenge 14](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/fad0f3a2-34e0-46b6-8f1f-df2d2c37949d)
+![Lesson 3 Challenge 14](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/d9cd89b8-ca4f-42f0-a550-f6ff1b69cf43)
 </details>

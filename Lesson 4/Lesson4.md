@@ -109,7 +109,7 @@ for i in range(10): # i takes on values from 0 to 9
         my_turtle.left(45)
 ```
 
-![Lesson 4 1 Zigzag](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/629a6f97-fb77-4dbf-9d54-a46410a16929)
+![Lesson 4 1 Zigzag](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/d18c6a62-be41-4a0f-964d-6c2486fd1e70)
 
 Here's another example. This code draws a 9-point star.
 
@@ -125,7 +125,7 @@ for i in range(18): # i takes on values from 0 to 17
         my_turtle.left(225)
 ```
 
-![Lesson 4 2 9 Point Star](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/e522b067-2bf9-421c-a96c-bf6fc716f522)
+![Lesson 4 2 9 Point Star](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/937396d5-9b0d-4c48-b842-800ca85fda64)
 
 ## Review
 

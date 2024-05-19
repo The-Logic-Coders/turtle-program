@@ -13,7 +13,7 @@
 my_turtle.goto(100, 100) # Move the turtle to the (100, 100) location on the screen
 ```
 
-![Lesson 2 1 Go To](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/6226eb3b-8c8b-4e41-93b6-3ad2d60c9320)
+![Lesson 2 1 Go To](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/a2e3f5c6-436d-4168-a183-1331bfcce447)
 
 **Get Turtle Position**: Find the turtle's current location `(x, y)`. This is similar to Python's built-in function `index()` for lists.
 
@@ -27,7 +27,7 @@ my_turtle.pos() # Get the coordinates of the turtle
 my_turtle.home() # Return the turtle to (0, 0)
 ```
 
-![Lesson 2 2 Home](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/7f4d59ba-e060-4538-881f-8b6942d05df4)
+![Lesson 2 2 Home](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/76f429a3-626b-4332-af7b-20c2ee950c0f)
 
 **Draw a Dot**: Draw a dot with the specified size.
 
@@ -35,7 +35,7 @@ my_turtle.home() # Return the turtle to (0, 0)
 my_turtle.dot(100) # Draw a dot with diameter 100
 ```
 
-![Lesson 2 3 Dot](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/728b12a7-2556-4b55-bbca-ab2dc37fc8a6)
+![Lesson 2 3 Dot](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/b0e9aaf8-d0b3-451b-b598-0df5a74b2639)
 
 **Draw a Circle**: Draw a circle with the specified radius.
 
@@ -43,7 +43,7 @@ my_turtle.dot(100) # Draw a dot with diameter 100
 my_turtle.circle(100) # Draw a circle with radius 100
 ```
 
-![Lesson 2 4 Circle](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/e0c7a6bf-8da4-4d11-9204-49a22f4a683f)
+![Lesson 2 4 Circle](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/fd50f782-1750-4066-b136-c1f7b65e508a)
 
 ## Pen Customization
 
@@ -194,11 +194,11 @@ Use <code>my_turtle.forward()</code> and <code>my_turtle.right()</code>
 
 e. (Hard) Draw Captain America's shield.
 
-<img src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/940a7d85-cb7e-4667-8d8f-c7e4c1f7074e" width="210" height="210">
+<img src="https://github.com/The-Logic-Coders/turtle-program/assets/97239180/9bcb9ad4-d2b6-4e88-82a0-a3d4714b07c4" width="210" height="210">
 
-<img src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/caa1a3cf-f1a5-4d13-a972-0d5443923ff0" width="210" height="210">
+<img src="https://github.com/The-Logic-Coders/turtle-program/assets/97239180/c7ea94d5-eee0-4891-8406-0ef116051ff1" width="210" height="210">
 
-<img width="490" alt="Screenshot 2024-02-18 162712" src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/1415d238-4249-4bb9-87cb-a522723626e4">
+<img width="490" alt="Screenshot 2024-02-18 162712" src="https://github.com/The-Logic-Coders/turtle-program/assets/97239180/15094654-59ad-46af-8e3f-74f1086ef0e0">
 <details>
 <summary>Hint</summary>
 Captain America's shield is made up of 4 concentric circles (circles that have the same center) and 1 star.

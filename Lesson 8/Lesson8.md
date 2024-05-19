@@ -29,9 +29,9 @@ Click "View All My Trinkets".
 Click "Lesson 8: Mazes, Mazes, Mazes" then make a copy of it by clicking the "Copy" button located at the top right. You can also access the file at this link: https://trinket.io/library/trinkets/f503fac2b7 (make sure you're logged in)
 > Make sure you have created a copy. Do NOT directly edit this file as other students will need to use it too.
 
-![Screenshot 2024-04-20 110334](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/5837ea01-e8e8-4972-b38b-8c942f40be99)
+![Screenshot 2024-04-20 110334](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/001950d5-578f-4be4-b0df-ecbb5318b2f3)
 
-### Step 4 Extension (in case the file has been accidentally manipulated and you need to remake it)
+### Step 4 Extension (in case the file has been modified accidentally and you need to remake it)
 Click on the image icon located at the top right of the code editor. You may refer to https://blog.trinket.io/using-images-in-turtle-programs/ for extra information. Save the 10 maze images directly onto your laptop from https://www.pythonclassroom.com/turtle-graphics/turtle-maze, then upload them on trinket.io when prompted.
 
 ### Step 5

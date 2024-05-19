@@ -29,7 +29,7 @@ In this project, you'll be "travelling" around the world by drawing flags! At th
     - Spokes
 
 ### Reference Dimensions
-![Screenshot 2024-04-20 020038](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/e6de4ca3-4d43-4bea-aa3f-0110b32fd538)
+![Screenshot 2024-04-20 020038](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/3e71fb6b-d65c-4620-8273-036ae1b528a0)
 
 If finding the exact coordinates or angles for certain components in a flag is too difficult, you may refer to Scripts (Answer Key) > Lesson 9 Scripts folder *after* you've written the lines of code for each component of the flag.
 

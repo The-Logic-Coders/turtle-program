@@ -14,7 +14,7 @@ In Turtle, you can command the cursor to move around to create visual drawings l
 my_turtle.forward(100) # Move forward 100 units
 ```
 
-![Lesson 1 1 Forward](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/0834396a-71c5-44b5-b827-8542910b317a)
+![Lesson 1 1 Forward](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/5e83f6d8-c367-4b30-aa7b-76bdc2f827e2)
 
 **Move Backward**: Make your turtle move backward by a certain distance.
 
@@ -22,7 +22,7 @@ my_turtle.forward(100) # Move forward 100 units
 my_turtle.backward(100) # Move backward 100 units
 ```
 
-![Lesson 1 2 Backward](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/377fdce0-75e9-433d-8815-798a949c708c)
+![Lesson 1 2 Backward](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/051ba42c-a78c-4830-a4ab-a817c546cefd)
 
 **Turn Right**: Turn your turtle to the right by a certain angle.
 
@@ -30,7 +30,7 @@ my_turtle.backward(100) # Move backward 100 units
 my_turtle.right(90) # Turn right by 90 degrees
 ```
 
-![Lesson 1 3 Right](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/46cbfc9c-b5a7-4b36-bcc7-f9dc5e537d68)
+![Lesson 1 3 Right](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/07003581-f004-4b6a-98b5-281f42ff0a2c)
 
 **Turn Left**: Turn your turtle to the left by a certain angle.
 
@@ -38,7 +38,7 @@ my_turtle.right(90) # Turn right by 90 degrees
 my_turtle.left(90) # Turn left by 90 degrees
 ```
 
-![Lesson 1 4 Left](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/4649c4c1-ff27-444d-95b1-911df8c4b5e8)
+![Lesson 1 4 Left](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/38811375-e0d5-488d-93df-d28ae38d3e80)
 
 All 4 functions also have shorthand versions `my_turtle.fd()`, `my_turtle.bk()`, `my_turtle.rt()`, and `my_turtle.lt()` which work in the same way.
 
@@ -48,7 +48,7 @@ All 4 functions also have shorthand versions `my_turtle.fd()`, `my_turtle.bk()`,
 my_turtle.setheading(90) # Set the orientation of the turtle to 90 degrees (north)
 ```
 
-![Lesson 1 5 Set Heading](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/0af83791-0cee-4e66-bc8b-1bae5af9f14d)
+![Lesson 1 5 Set Heading](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/fe5b5474-b86d-48ad-a436-7c9e5ee0ec87)
 
 **Pen Up / Pen Down**: Lift your turtle's pen up or down. When the pen is up, the turtle will move without drawing. When the pen is down, the turtle will resume drawing.
 
@@ -68,7 +68,7 @@ my_turtle.pendown()
 my_turtle.forward(100) # This line will be drawn
 ```
 
-![Lesson 1 6 Pen Up   Pen Down](https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/c94ec323-1151-4c53-b286-85b4c5318be7)
+![Lesson 1 6 Pen Up   Pen Down](https://github.com/The-Logic-Coders/turtle-program/assets/97239180/d017f432-20f1-4c33-86ef-b0fddae51a31)
 
 ## Initial Customization
 Here are some functions you can use to customize the Turtle screen.
@@ -197,7 +197,7 @@ Use <code>my_turtle.setheading()</code>
 
 f. (Hard) Draw a regular 5-point star.
 
-<img width="200" alt="Image" src="https://github.com/cgtiu642/intro-to-turtle-learning/assets/97239180/a5fbcc31-9340-44c8-a8d2-96b2e2b1a316">
+<img width="200" alt="Image" src="https://github.com/The-Logic-Coders/turtle-program/assets/97239180/ec7dd093-1ff8-4345-bd71-aa177b643817">
 
 <details>
 <summary>Hint</summary>
