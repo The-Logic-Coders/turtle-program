@@ -11,8 +11,8 @@ This course will introduce the basics of the Turtle Graphics library in Python. 
 
 ## Turtle Learning Outline
 > Note: The concepts in Lesson 0 will not be tested, but please read through it as it contains important information for the actual setup and lessons.
-- Lessons 1-10 can be done on trinket.io: Setup instructions are on Lesson 0 (use Template.py from Scripts (Answer Key) > Lesson 0 Scripts)
-- Lessons 11-12 must be done on Visual Studio Code: Setup instructions are on Lesson 0 (use Template.py from Scripts (Answer Key) > Lesson 0 Scripts)
+- Lessons 1-10 can be done on **trinket.io**, while Lessons 11-12 must be done on **Visual Studio Code**
+- Setup instructions are on Lesson 0 (use Template.py from Scripts (Answer Key) > Lesson 0 Scripts)
 
 > Make sure to save all of your files by:
 - (Recommended) Copying your code onto an online platform like Google Colab (can't run the program, but you can copy and paste your code from it the next time you do an activity).
