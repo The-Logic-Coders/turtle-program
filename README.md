@@ -21,7 +21,7 @@ This course will introduce the basics of the Turtle Graphics library in Python. 
 > Ensure you rename your files in the following format: Name_LessonNumber (e.g. JohnDoe_Lesson3)
 
 | **Lesson** | **Topic** |
-| :----- | :----- |
+| :-----: | :----- |
 | 0 | Introduction to Turtle Graphics |
 | 1 | Drawing Lines |
 | 2 | Drawing Shapes |
