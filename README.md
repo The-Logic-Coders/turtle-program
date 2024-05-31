@@ -15,7 +15,7 @@ This course will introduce the basics of the Turtle Graphics library in Python. 
 - Setup instructions are on Lesson 0 (use Template.py from Scripts (Answer Key) > Lesson 0 Scripts)
 
 > Make sure to save all of your files!
-- **(Recommended)** Copying your code onto an online platform like Google Colab (can't run the program, but you can copy and paste your code from it the next time you do an activity).
+- **(Recommended)** Copying your code onto an online platform like Google Colab (can't run the program, but you can copy and paste your code from it the next time you do an activity)
 - Downloading your code from trinket.io onto your laptop (especially if you are not finished, or else you might have to redo some activities)
 
 > Ensure you rename your files in the following format: Name_LessonNumber (e.g. JohnDoe_Lesson3)
